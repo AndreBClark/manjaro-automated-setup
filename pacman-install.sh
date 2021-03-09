@@ -18,6 +18,7 @@ bash scripts/pacman/ctags-install.sh
 bash scripts/pacman/docker-install.sh
 bash scripts/pacman/pamac-install.sh
 bash scripts/pacman/zsh-install.sh
+bash scripts/pacman/oh-my-zsh-install.sh
 bash scripts/pacman/composer-install.sh
 bash scripts/pacman/gh-cli-install.sh
 bash scripts/pacman/nvm-install.sh
