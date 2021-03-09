@@ -6,5 +6,5 @@ then
     exit 1
 fi
 
-bash scripts/snap/slack-install.sh
-bash scripts/snap/whatsdesk-install.sh
+bash scripts/snap/spotify-install.sh
+bash scripts/snap/vscode-install.sh
