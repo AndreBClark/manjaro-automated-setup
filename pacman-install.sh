@@ -17,26 +17,16 @@ bash scripts/pacman/cmake-install.sh
 bash scripts/pacman/ctags-install.sh
 bash scripts/pacman/docker-install.sh
 bash scripts/pacman/pamac-install.sh
-bash scripts/pacman/qbittorrent-install.sh
-bash scripts/pacman/sublime-text-install.sh
-bash scripts/pacman/tig-install.sh
-bash scripts/pacman/telegram-desktop-install.sh
-bash scripts/pacman/tmux-install.sh
-bash scripts/pacman/visual-studio-code-install.sh
-bash scripts/pacman/xclip-install.sh
+bash scripts/pacman/zsh-install.sh
+bash scripts/pacman/composer-install.sh
+bash scripts/pacman/gh-cli-install.sh
+bash scripts/pacman/nvm-install.sh
 
-echo "changing to fish shell"
-chsh -s /usr/bin/fish
+echo "changing to zsh shell"
+chsh -s /usr/bin/zsh
 
 # disabled session
 # bash scripts/pacman/erlang-dependencies-install.sh
-# bash scripts/pacman/flatpak-install.sh
-# bash scripts/pacman/yay-install.sh
-# bash scripts/pacman/mono-install.sh
-# bash scripts/pacman/neovim-install.sh
-# bash scripts/pacman/plank-install.sh
-# bash scripts/pacman/postgresql-install.sh
-# bash scripts/pacman/redis-install.sh
-# bash scripts/pacman/wine-install.sh
-# bash scripts/pacman/steam-install.sh
-# bash scripts/pacman/zsh-install.sh
+bash scripts/pacman/flatpak-install.sh
+bash scripts/pacman/yay-install.sh
+bash scripts/pacman/steam-install.sh
