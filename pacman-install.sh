@@ -31,3 +31,4 @@ chsh -s /usr/bin/zsh
 bash scripts/pacman/flatpak-install.sh
 bash scripts/pacman/yay-install.sh
 bash scripts/pacman/steam-install.sh
+bash scripts/pacman/fira-code-install.sh
