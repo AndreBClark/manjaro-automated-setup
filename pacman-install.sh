@@ -32,3 +32,4 @@ bash scripts/pacman/flatpak-install.sh
 bash scripts/pacman/yay-install.sh
 bash scripts/pacman/steam-install.sh
 bash scripts/pacman/fira-code-install.sh
+bash setup/add_stevenhosts.sh
