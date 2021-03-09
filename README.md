@@ -1,3 +1,5 @@
+# **TODO** UPDATE DOCS WITH NEW PACKAGES
+
 # Automated development setup for Manjaro
 
 This repo aims to simplify and automate development environmemt
